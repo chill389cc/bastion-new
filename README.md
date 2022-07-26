@@ -83,3 +83,12 @@ and query your databases.
 <br>![](./images/loaded-dbs.png)
 
 ### Load the Public Key from Lastpass
+
+Hopefully by now you have access to the oit lastpass. 
+Locate the SSH credentials in LastPass under the `Shared-Application Development\CESGI` folder. Download and save the `CES Bastion SSH Credentials` private key in your user `.ssh` directory as a file called `ces.key`. Yes, `.key` should be the file extension, but edit it as a text file. If you rename or relocate this key, you may need to adjust the private key file selection in the ssh configuration mentioned in the next step.
+
+### Connect!
+
+First, Restart DataGrip to load the new configurations.
+
+Then to actually access the databases that have been added to your Datagrip you will need to have access to the aws-accounts that correspond to the folder names. The folders are the ones with names like 'byu-oit-cessupport-prd'. Inside each folder you will see a handful of database connections. Each database will have its username and password stored in the Parameter Store for the parent AWS account. Aside from those passwords and usernames, you shouldn't have to make any other changes to the connections, although if I remember correctly there are some connect strings that might be outdated. If you can't connect to any given database, just ask.
