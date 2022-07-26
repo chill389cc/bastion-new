@@ -19,7 +19,7 @@ If there is not already a folder there named `.ssh`, then create one. Don't forg
 
 If you are on Mac or Linux:
 
-1. Copy from this repository the content of `.ssh/config-unix`.
+1. Copy from [this repository](https://github.com/byu-oit/ces-bastions/tree/main/.ssh) the content of `.ssh/config-unix`.
 3. If there is a `config` file in your `.ssh` directory then open it and
    append the copied content to the file. If there is no `config` file
    there then create it and paste the copied content.
@@ -28,7 +28,7 @@ If you are on Mac or Linux:
 
 ![Windows](./images/windows.png)
 
-1. Copy from this repository the content of `.ssh/config-windows`.
+1. Copy from [this repository](https://github.com/byu-oit/ces-bastions/tree/main/.ssh) the content of `.ssh/config-windows`.
 2. If there is a `config` file in your `.ssh` directory then open it and
    append the copied content to the file. If there is no `config` file
    there then create it and paste the copied content.
