@@ -3,7 +3,7 @@
 
 Later in this tutorial, you are going to need to get an access key from the company's Lastpass account. To be able to log in to this account and get the Key, you will need to submit a request for a company Lastpass account. LastPass access requires supervisor approval, so your supervisor will receive an email to authorize your access. After that approval is received, you should receive an activation email within three hours.
 
-Follow [this link](https://support.byu.edu/com.glideapp.servicecatalog_cat_item_view.do?v=1&sysparm_id=021710700f3fc300f431db0be1050ead&sysparm_link_parent=aaec8bf20a0a3c0e55139c86721d7da2&sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4&sysparm_catalog_view=catalog_default&sysparm_view=text_search) to an order form and fill it out (You can put 'Mark Crowther' as the manager).
+Follow [this link](https://it.byu.edu/it?id=sc_cat_item&sys_id=021710700f3fc300f431db0be1050ead) to an order form and fill it out (You can put 'Mark Crowther' as the manager).
 
 ### 2. Setup Steps
 
